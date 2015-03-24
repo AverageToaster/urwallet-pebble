@@ -1,0 +1,17 @@
+{
+  "uuid": "40f54f68-525b-41ca-aba1-bef37597f714",
+  "shortName": "urwallet-pebble",
+  "longName": "urwallet-pebble",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
